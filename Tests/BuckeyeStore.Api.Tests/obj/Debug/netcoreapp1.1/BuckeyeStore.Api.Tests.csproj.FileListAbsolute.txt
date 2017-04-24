@@ -1,0 +1,15 @@
+/Users/Lulu/Documents/OSU/ACCTMIS 3610/ACCTMIS3610/BuckeyeStore/Tests/BuckeyeStore.Api.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Api.Tests.deps.json
+/Users/Lulu/Documents/OSU/ACCTMIS 3610/ACCTMIS3610/BuckeyeStore/Tests/BuckeyeStore.Api.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Api.Tests.runtimeconfig.json
+/Users/Lulu/Documents/OSU/ACCTMIS 3610/ACCTMIS3610/BuckeyeStore/Tests/BuckeyeStore.Api.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Api.Tests.runtimeconfig.dev.json
+/Users/Lulu/Documents/OSU/ACCTMIS 3610/ACCTMIS3610/BuckeyeStore/Tests/BuckeyeStore.Api.Tests/obj/Debug/netcoreapp1.1/BuckeyeStore.Api.Tests.AssemblyInfo.cs
+/Users/Lulu/Documents/OSU/ACCTMIS 3610/ACCTMIS3610/BuckeyeStore/Tests/BuckeyeStore.Api.Tests/bin/Debug/netcoreapp1.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/Lulu/Documents/OSU/ACCTMIS 3610/ACCTMIS3610/BuckeyeStore/Tests/BuckeyeStore.Api.Tests/bin/Debug/netcoreapp1.1/xunit.runner.utility.netstandard15.dll
+/Users/Lulu/Documents/OSU/ACCTMIS 3610/ACCTMIS3610/BuckeyeStore/Tests/BuckeyeStore.Api.Tests/bin/Debug/netcoreapp1.1/xunit.runner.reporters.netstandard15.dll
+/Users/Lulu/Documents/OSU/ACCTMIS 3610/ACCTMIS3610/BuckeyeStore/Tests/BuckeyeStore.Api.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Api.Tests.dll
+/Users/Lulu/Documents/OSU/ACCTMIS 3610/ACCTMIS3610/BuckeyeStore/Tests/BuckeyeStore.Api.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Api.Tests.pdb
+/Users/Lulu/Documents/OSU/ACCTMIS 3610/ACCTMIS3610/BuckeyeStore/Tests/BuckeyeStore.Api.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Api.dll
+/Users/Lulu/Documents/OSU/ACCTMIS 3610/ACCTMIS3610/BuckeyeStore/Tests/BuckeyeStore.Api.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Core.dll
+/Users/Lulu/Documents/OSU/ACCTMIS 3610/ACCTMIS3610/BuckeyeStore/Tests/BuckeyeStore.Api.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Api.pdb
+/Users/Lulu/Documents/OSU/ACCTMIS 3610/ACCTMIS3610/BuckeyeStore/Tests/BuckeyeStore.Api.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Core.pdb
+/Users/Lulu/Documents/OSU/ACCTMIS 3610/ACCTMIS3610/BuckeyeStore/Tests/BuckeyeStore.Api.Tests/obj/Debug/netcoreapp1.1/BuckeyeStore.Api.Tests.dll
+/Users/Lulu/Documents/OSU/ACCTMIS 3610/ACCTMIS3610/BuckeyeStore/Tests/BuckeyeStore.Api.Tests/obj/Debug/netcoreapp1.1/BuckeyeStore.Api.Tests.pdb

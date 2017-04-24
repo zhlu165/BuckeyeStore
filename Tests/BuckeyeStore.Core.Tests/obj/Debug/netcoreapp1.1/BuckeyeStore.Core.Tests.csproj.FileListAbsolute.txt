@@ -9,3 +9,5 @@
 /Users/Lulu/Documents/OSU/ACCTMIS 3610/ACCTMIS3610/BuckeyeStore/Tests/BuckeyeStore.Core.Tests/obj/Debug/netcoreapp1.1/BuckeyeStore.Core.Tests.AssemblyInfo.cs
 /Users/Lulu/Documents/OSU/ACCTMIS 3610/ACCTMIS3610/BuckeyeStore/Tests/BuckeyeStore.Core.Tests/obj/Debug/netcoreapp1.1/BuckeyeStore.Core.Tests.dll
 /Users/Lulu/Documents/OSU/ACCTMIS 3610/ACCTMIS3610/BuckeyeStore/Tests/BuckeyeStore.Core.Tests/obj/Debug/netcoreapp1.1/BuckeyeStore.Core.Tests.pdb
+/Users/Lulu/Documents/OSU/ACCTMIS 3610/ACCTMIS3610/BuckeyeStore/Tests/BuckeyeStore.Core.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Core.dll
+/Users/Lulu/Documents/OSU/ACCTMIS 3610/ACCTMIS3610/BuckeyeStore/Tests/BuckeyeStore.Core.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Core.pdb
